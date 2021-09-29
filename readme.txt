@@ -1,4 +1,4 @@
-changes made in line 1 of the css branch readme file
+changes made in line 1 of the master branch readme file
 <<<<<<< HEAD
 these are the changes in line 3 from the master branch 
 =======
